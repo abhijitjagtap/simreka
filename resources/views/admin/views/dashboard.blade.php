@@ -4,7 +4,7 @@
 @section("content")
 
 
-<h4 class="card-title mt-5 " >Admin Dashboard</h4>
+<h4 class="card-title mt-5 " >Admin Dashboard data</h4>
 
 
   <div class="card">
